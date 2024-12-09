@@ -1,0 +1,55 @@
+
+  
+  @import url('https://fonts.googleapis.com/css2?family=Passions+Conflict&display=swap');
+
+  .counter-section {
+    padding: 50px 20px;
+    text-align: center;
+    background-color: #fff;
+  }
+  
+
+  @media only screen and (max-width:1460px){
+    .counter-container {
+      max-width: 90%!important;
+      width: 90%!important;
+  
+  }
+  }
+
+  .counter-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 40px;
+    width: 70%;
+    margin:0px auto;
+  }
+  
+  .counter-item {
+    text-align: center;
+    display: flex;
+  }
+  
+  .ct-text{
+    margin-right: 20px;
+  }
+
+  .counter-item h2 {
+    font-size: 56px;
+    color: #333;
+    font-family: "Passions Conflict", cursive;
+    font-weight: 100;
+    opacity: 0.9;
+
+  }
+  
+  .counter-item p {
+    font-size: 25px;
+    color: #9b8a78;
+    font-family: "Passions Conflict", cursive;
+    font-weight: 100;
+    opacity: 0.9;
+
+  }
+  

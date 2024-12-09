@@ -1,0 +1,63 @@
+[
+    {
+      "id": "soz-nisan",
+      "title": "Söz & Nişan",
+      "image": "/soz-1.jpg",
+      "description": [
+        "Söz & Nişan organizasyonlarımızda, hayalinizdeki özel anları gerçeğe dönüştürüyoruz. Şık mekan tasarımı, detaylara verilen önem ve size özel dekorasyon ile unutulmaz bir deneyim sunuyoruz.",
+        "Mekânımız, misafirlerinize konforlu bir ortam sağlarken, organizasyon sürecinin her aşamasında yanınızdayız. Lezzetli ikramlarımız, profesyonel hizmet anlayışımız ve özenle hazırlanmış detaylar bu özel günü sizin için mükemmel kılacak.",
+        "Mutluluğunuza eşlik etmek ve anılarınızı güzelleştirmek için her zaman buradayız!",
+        "Söz ve nişan organizasyonlarımızda çiçek aranjmanlarından fotoğraf çekim alanlarına kadar her detay titizlikle planlanır.",
+        "Hayatınızın bu özel gününe anlam katacak konseptler, uzman ekibimiz tarafından sizin isteklerinize uygun şekilde hazırlanır."
+      ],
+      "seoTitle": "Söz & Nişan Organizasyonları | İstanbul Maltepe",
+      "seoDescription": "Söz ve nişan organizasyonlarınız için profesyonel hizmet! İstanbul Maltepe'de unutulmaz anılar yaratmak için bize ulaşın.",
+      "contactLink": "/iletisim"
+    },
+    {
+      "id": "nisan",
+      "title": "Nişan",
+      "image": "/nisan.jpg",
+      "description": [
+        "Nişan organizasyonlarınızda, romantik detaylarla dolu bir atmosfer yaratıyoruz.",
+        "Siz ve sevdikleriniz için, profesyonel bir ekiple şık ve zarif bir mekan hazırlıyoruz.",
+        "Kişiye özel konseptlerimizle, bu özel gününüzü daha da anlamlı hale getiriyoruz.",
+        "Dekorasyon, yiyecek ve içecek seçenekleri, fotoğraf çekim alanları ve daha fazlası, her aşamada sizin için titizlikle hazırlanır.",
+        "Nişan törenlerinizde unutulmaz anlar yaratmak için buradayız."
+      ],
+      "seoTitle": "Nişan Organizasyonları | İstanbul Maltepe",
+      "seoDescription": "Nişan organizasyonlarınız için şık mekanlar ve profesyonel hizmet! İstanbul Maltepe'de unutulmaz anılar yaratmak için bizimle iletişime geçin.",
+      "contactLink": "/iletisim"
+    },
+    {
+      "id": "kina-gecesi",
+      "title": "Kına Gecesi",
+      "image": "/kina.jpg",
+      "description": [
+        "Kına gecenizi geleneksel dokular ve modern detaylarla süsleyerek, unutulmaz bir geceye dönüştürüyoruz.",
+        "Misafirleriniz için özenle hazırlanmış alanlarımız, kına tahtından özel dekorasyonlara kadar her şeyin kusursuz olmasını sağlar.",
+        "Kına gecenizde size ve sevdiklerinize eşlik edecek eğlenceli bir atmosfer yaratıyoruz.",
+        "Geleneksel Türk kına ritüellerini modern dokunuşlarla harmanlıyor ve eşsiz bir deneyim sunuyoruz.",
+        "Işıklandırma, müzik, dans gösterileri ve ikramlarımız, gecenizin unutulmaz anlarla dolu olmasını sağlar."
+      ],
+      "seoTitle": "Kına Gecesi Organizasyonları | İstanbul Maltepe",
+      "seoDescription": "Kına gecesi organizasyonlarınız için profesyonel hizmet! İstanbul Maltepe'de geleneksel ve modern dokular bir arada.",
+      "contactLink": "/iletisim"
+    },
+    {
+      "id": "dugun",
+      "title": "Düğün",
+      "image": "/dugun.jpg",
+      "description": [
+        "Düğün organizasyonlarınızda, hayallerinizdeki masal gibi bir geceyi gerçeğe dönüştürüyoruz.",
+        "Şık mekanlarımız, profesyonel ekiplerimiz ve kişiye özel konseptlerimizle, bu özel gününüzde yanınızdayız.",
+        "Dekorasyon, catering hizmetleri, müzik ve fotoğraf gibi tüm detaylar sizin için özenle hazırlanır.",
+        "Misafirlerinize unutulmaz bir deneyim sunarken, sizin sadece bu özel anın tadını çıkarmanızı sağlıyoruz.",
+        "Düğün törenleriniz için her ayrıntının mükemmel olması adına, detaycı ve titiz bir yaklaşım sergiliyoruz."
+      ],
+      "seoTitle": "Düğün Organizasyonları | İstanbul Maltepe",
+      "seoDescription": "Düğün organizasyonlarınız için profesyonel hizmet! İstanbul Maltepe'de hayallerinizi gerçeğe dönüştürmek için bizimle iletişime geçin.",
+      "contactLink": "/iletisim"
+    }
+  ]
+  
